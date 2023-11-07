@@ -12,5 +12,6 @@ Scripts for downloading and processing raw fastqs to obtain unspliced and splice
 
 Notebooks for analyzing and processing germ cell development, Perturb-seq, drug screen, and drug resistance datasets.
 
+Examples of meK-Means usage, for identifying cell populations with shared kinetics, can be found [here](https://github.com/pachterlab/CGP_2023).
 
 All analyses used the [_Monod_ package](https://monod-examples.readthedocs.io/en/latest/) for CME inference from single-cell data. 
