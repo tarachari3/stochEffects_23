@@ -8,6 +8,8 @@ Results presented at the 2023 CSHL Single Cell Analyses conference.
 
 Scripts for downloading and processing raw fastqs to obtain unspliced and spliced RNA counts, for each dataset used.
 
+To generate final loom counts files, run scripts in order: (1) fetch.sh --> (2) count.sh --> (3) concat.sh
+
 ## Metadata Directory Contents
 
 Saved metadata for the datasets analyzed, used in the analysis notebooks (below).
