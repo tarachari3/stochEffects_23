@@ -8,6 +8,10 @@ Results presented at the 2023 CSHL Single Cell Analyses conference.
 
 Scripts for downloading and processing raw fastqs to obtain unspliced and spliced RNA counts, for each dataset used.
 
+## Metadata Directory Contents
+
+Saved metadata for the datasets analyzed, used in the analysis notebooks (below).
+
 ## Notebooks Directory Contents
 
 Notebooks for analyzing and processing germ cell development, Perturb-seq, drug screen, and drug resistance datasets.
