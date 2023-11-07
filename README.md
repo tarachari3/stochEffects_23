@@ -4,6 +4,10 @@ We use the Chemical Master Equation (CME) formalism to parametrize these biologi
 
 Results presented at the 2023 CSHL Single Cell Analyses conference.
 
+## Transcriptome_Refs Directory Contents
+
+Contains gene length references for the mouse and human genomes, used for *Monod* models with length-biased capture (i.e. 10x genomics data).
+
 ## Scripts Directory Contents
 
 Scripts for downloading and processing raw fastqs to obtain unspliced and spliced RNA counts, for each dataset used.
